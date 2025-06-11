@@ -34,8 +34,6 @@ If you're also in the front-end field or have advice to share with an enthusiast
 
 <h3 align="left"> ⭐Connect with me</h3>
 
-  
-[![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@DanielleCosta2)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellecosta1)
 
   

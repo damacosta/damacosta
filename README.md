@@ -93,7 +93,7 @@ Sou uma **Desenvolvedora Full Stack** em formação apaixonada por transformar i
   <a href="https://www.linkedin.com/in/daniellecostadev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8a3ab9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:daniellecosta.dev@gmail.com" target="_blank">
+  <a href="mailto:d.mariano.costa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/damacosta" target="_blank">

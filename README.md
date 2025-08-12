@@ -8,7 +8,7 @@ Sou uma **Desenvolvedora Full Stack** em formação apaixonada por transformar i
 ---
 
 ![Repos Badge](https://img.shields.io/badge/Projetos-10-ffb6c1?logo=github)
-![Profile views](https://komarev.com/ghpvc/?username=your-github-damacosta&ff69b4&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=your-github-damacosta&ffb6c1&style=flat-square)
 
 ---
 

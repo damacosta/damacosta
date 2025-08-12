@@ -1,40 +1,73 @@
-<h1> 
-<a href="https://github.com/damacosta"></a>
-Hi, my name is Danielle Costa! 💜
-</h1>
+# 🌸✨ Oie, eu sou a Dandan! ✨🌸
 
-<p align="justify"> I am a Information Technology student with a strong interest and focus on front-end development.</p>
- 
-<h3> ⭐My Current Skills</h3>
- 
-- HTML (in the learning process)
-- CSS (in the learning process)
-- JavaScript (in the learning process)
-- Exploring front-end frameworks and libraries
-- Curious about user interface design
-- Interested in web accessibility
-- Beginning my journey in UX (User Experience)
+Sou uma **Desenvolvedora Full Stack** em formação apaixonada por transformar ideias em experiências digitais encantadoras, sempre colocando as pessoas no centro de tudo que faço.
 
-<h3>⭐ Technologies and Tools</h3>
+> 🩷 **"Pessoas no centro, tecnologia como meio, aprendizado como caminho.  
+> Mais que códigos, eu acredito em conexões."** 🩷
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+---
 
-<h3 align="left">⭐ Goals</h3>
+![Repos Badge](https://img.shields.io/badge/Projetos-10-ffb6c1?logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=damacosta&color=ff69b4&style=flat-square)
 
-  
-My main goal is to enhance my front-end development skills as I continue to learn and practice. I'm excited to progress and eventually contribute to more significant projects.
+---
 
-If you're also in the front-end field or have advice to share with an enthusiastic learner, feel free to reach out to me. <strong><em>Let's learn together!</strong></em> 🚀
+🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷
 
-<h3 align="left"> ⭐GitHub Stats</h3>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damacosta&theme=midnight-purple&show_icons=true)
+## ✨ Sobre mim
 
-<h3 align="left"> ⭐Connect with me</h3>
+- 💖 Curiosa, colaborativa e com brilho nos olhos por aprender coisas novas todos os dias.
+- 🌱 Busco crescer e evoluir continuamente, sempre aberta a novos desafios.
+- 🤝 Acredito no poder das conexões, na troca de conhecimento e no trabalho em equipe.
+- 🎨 Amo unir criatividade, tecnologia e empatia para criar soluções que fazem a diferença.
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellecosta1)
+---
 
-  
-![](https://komarev.com/ghpvc/?username=your-github-damacosta&color=blueviolet&style=plastic-square)
+🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷
+
+## 💻 Minhas Skills
+
+```
+🎀 Front-end:  
+HTML • CSS • JavaScript • React.js • TypeScript • Next.js • NextAuth • Tailwind CSS • Bootstrap • Figma • ShadCN
+
+🎀 Back-end:  
+Node.js • Express.js • Java • Python • Flask • PHP • JWT • API
+
+🎀 Banco de Dados:  
+MongoDB • Mongoose • MySQL • Xampp
+
+🎀 CMS:  
+WordPress
+
+🎀 Ferramentas & Metodologias:  
+Git • GitHub • Scrum • Kanban • Trello • Microsoft Planner • Design Thinking • Metodologias Ágeis • Insomnia • Suporte Técnico • Testes (Jest)
+
+🎀 Outros:  
+Inglês Técnico
+```
+
+---
+
+🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷
+
+## 📊 Minhas estatísticas no GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=damacosta&show_icons=true&theme=tokyonight&icon_color=ffb6c1&title_color=ff69b4)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=damacosta&layout=compact&theme=tokyonight&title_color=ff69b4)
+
+---
+
+## 💫 Vamos nos conectar?
+
+- [🐱 Instagram](https://instagram.com/da.macosta)
+- [💼 LinkedIn](https://www.linkedin.com/in/daniellecostadev/)
+
+---
+
+🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷
+
+<!--
+Fique à vontade para adicionar mais projetos, conquistas ou curiosidades aqui! Adoro compartilhar e aprender junto! 🌷✨
+-->

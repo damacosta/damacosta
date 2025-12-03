@@ -4,7 +4,7 @@
   
   ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-8B008B?style=flat)
   ![Java & React](https://img.shields.io/badge/Java%20%26%20React-8B008B?style=flat)
-  [![Portfólio](https://img.shields.io/badge/Portfólio-daniellecosta.dev.br-8B008B?style=flat&logo=react&logoColor=white)](https://daniellecosta.dev.br)</br>
+  [![Portfolio](https://img.shields.io/badge/Portfólio-daniellecosta.dev.br-8B008B?style=flat&logoColor=white)](https://daniellecosta.dev.br)</br>
 </div>
 
 

@@ -1,110 +1,167 @@
-# 🌸✨ Oie, eu sou a Dandan! ✨🌸
-
-Sou uma **Desenvolvedora Full Stack** em formação apaixonada por transformar ideias em experiências digitais encantadoras, sempre colocando as pessoas no centro de tudo que faço.
-
-> 🩷 **"Pessoas no centro, tecnologia como meio, aprendizado como caminho.  
-> Mais que códigos, eu acredito em conexões."** 🩷
-
----
-
-![Repos Badge](https://img.shields.io/badge/Projetos-10-ffb6c1?logo=github)
-![Profile views](https://komarev.com/ghpvc/?username=your-github-damacosta&ffb6c1&style=flat-square)
-
----
-
-🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷
-
-## ✨ Sobre mim
-
-- 💖 Curiosa, colaborativa e com brilho nos olhos por aprender coisas novas todos os dias.
-- 🌱 Busco crescer e evoluir continuamente, sempre aberta a novos desafios.
-- 🤝 Acredito no poder das conexões, na troca de conhecimento e no trabalho em equipe.
-- 🎨 Amo unir criatividade, tecnologia e empatia para criar soluções que fazem a diferença.
-
----
-
-🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷
-
-## 💻 Minhas Skills
-
-<p align="center">
+<div align="center">
+  <h1>Danielle Costa (Dandan)</h1>
+  <h3><em>Pessoas no centro, tecnologia como meio, aprendizado como caminho. Mais que códigos, eu acredito em conexões.</em></h3>
   
-  <!-- Front-end -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/NextAuth-24292F?style=for-the-badge&logo=next.js&logoColor=fff" alt="NextAuth"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" alt="Figma"/>
-  <img src="https://img.shields.io/badge/ShadCN-fff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmY2OWI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHBhdGggZD0iTTcuMDggMGMwIDEuOTItMS41NiAzLjQ4LTMuNDggMy40OFY2LjI0YzEuOTIgMCAzLjQ4LTEuNTYgMy40OC0zLjQ4VjB6TTAgNy4wOGMxLjkyIDAgMy40OC0xLjU2IDMuNDgtMy40OFY2LjI0Yy0xLjkyIDAtMy40OCAxLjU2LTMuNDggMy40OFY3LjA4em0wIDcuMDhjMS45MiAwIDMuNDgtMS41NiAzLjQ4LTMuNDhWMTMuMzZjLTEuOTIgMC0zLjQ4IDEuNTYtMy40OCAzLjQ4djAuMjR6bTcuMDgtNy4wOGMxLjkyIDAgMy40OC0xLjU2IDMuNDgtMy40OFY2LjI0Yy0xLjkyIDAtMy40OCAxLjU2LTMuNDggMy40OFY3LjA4em0wIDcuMDhjMS45MiAwIDMuNDgtMS41NiAzLjQ4LTMuNDhWMTMuMzZjLTEuOTIgMC0zLjQ4IDEuNTYtMy40OCAzLjQ4djAuMjR6Ii8+PC9zdmc+" alt="ShadCN"/>
-  
-  <!-- Back-end -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff" alt="Flask"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff" alt="JWT"/>
-  <img src="https://img.shields.io/badge/API-ffb6c1?style=for-the-badge" alt="API"/>
-  
-  <!-- Banco de dados -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=fff" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=fff" alt="Xampp"/>
-  
-  <!-- CMS -->
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff" alt="WordPress"/>
-  
-  <!-- Ferramentas e metodologias -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=fff" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=fff" alt="Kanban"/>
-  <img src="https://img.shields.io/badge/Design_Thinking-ffb6c1?style=for-the-badge" alt="Design Thinking"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff" alt="Insomnia"/>
-  <img src="https://img.shields.io/badge/Suporte_T%C3%A9cnico-ffb6c1?style=for-the-badge" alt="Suporte Técnico"/>
-  <img src="https://img.shields.io/badge/Testes-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman")/>
+  ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-8B008B?style=flat)
+  ![Java & React](https://img.shields.io/badge/Java%20%26%20React-8B008B?style=flat)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-daniellecosta.dev.br-8B008B?style=flat&logo=react&logoColor=white)](https://daniellecosta.dev.br)</br>
+</div>
 
----
 
-🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷
+<h2></h2>
 
-## 📊 Minhas estatísticas no GitHub
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=damacosta&show_icons=true&theme=tokyonight&icon_color=ffb6c1&title_color=ff69b4)
+### About me
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=damacosta&layout=compact&theme=tokyonight&title_color=ff69b4)
+<h2></h2>
 
----
+- Desenvolvedora **Full Stack** em transição da área educacional para tecnologia.  
+- Experiência com **projetos acadêmicos e voluntários** voltados para impacto social e agricultura familiar.  
+- Atuação com **React.js**, **Next.js**, **Java/Spring Boot**, **APIs REST** e bancos de dados relacionais.  
+- Foco em criar soluções digitais eficientes, com boa usabilidade e código organizado.  
+- Interesse em arquitetura web, boas práticas de back‑end e UI pensada para pessoas.  
 
-## 💫 Vamos nos conectar?
+<h2></h2>
 
-<p align="center">
-  <a href="https://instagram.com/da.macosta" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniellecostadev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8a3ab9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:d.mariano.costa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/damacosta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+### Work & Volunteering
 
----
+<h2></h2>
 
-🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷🌼🌷
+**Administradora Geral – Comunidade Programmer Girls (ProGirls)**  
+_fev. 2025 – atual_  
 
-<!--
-Fique à vontade para adicionar mais projetos, conquistas ou curiosidades aqui! Adoro compartilhar e aprender junto! 🌷✨
--->
+- Coordenação de comunidade, grupos de estudo e eventos focados em mulheres na tecnologia.  
+- Participação na criação da página oficial da comunidade com **front‑end em React** e **back‑end em Python/Flask/SQLite**.  
+
+**Desenvolvedora Web – Sociedade Esportiva Atlas Futsal (voluntária)**  
+_jan. 2025 – abr. 2025_  
+
+- Criação de site institucional com **HTML, CSS, PHP, WordPress, MySQL**, usando **XAMPP** e **Git** para desenvolvimento e versionamento.  
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### Education
+
+<h2></h2>
+
+**Bacharelado em Engenharia da Computação**  
+UNIVESP – Universidade Virtual do Estado de São Paulo  
+_Previsão de término: ago/2027_  
+
+**Formação em Desenvolvimento Full‑Stack Júnior**  
++PraTI  
+_Previsão de término: nov/2025_  
+
+<h2></h2>
+
+- **Português – Nativo**  
+- **Inglês – B1:** boa leitura técnica, escrita e conversação básica.  
+
+<h2></h2>
+
+### Skills
+
+<h2></h2>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=flat&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![API](https://img.shields.io/badge/APIs-000000?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+<h2></h2>
+
+
+### Certifications
+
+<h2></h2>
+
+- **Certificado Profissional em Suporte em TI** – Google & JA Brasil – [Ver credencial](https://www.credly.com/badges/575684a1-2b23-4d7f-b525-d46203086ef9)
+- **Fundamentos de FrontEnd Development** – Instituto Nu & Descomplica  
+- **Desenvolvimento Web – Elas na Tech** – JA Brasil  
+- **Desenvolvimento Web com Java, JavaScript, PHP, MySQL e Git** – Udemy & SoulCode  
+
+    </td>
+  </tr>
+</table>
+
+<h2></h2>
+
+<div align="center">
+  <h2>Portfolio</h2>
+</div>
+
+<!-- Semeia+ -->
+<img align="left" height="110px" width="110px" alt="Semeia+ Icon" src="https://i.pinimg.com/736x/05/40/27/0540278d73320c3b0aa7d626b28be7e6.jpg" style="margin-right:15px"/>
+
+**Semeia+** – Plataforma web para planejamento de safra e gestão de propriedades de agricultura familiar.  
+**Tecnologias:** `React.js`, `Hooks`, `Java`, `Spring Boot`, `PostgreSQL`, `APIs REST`  
+**Links:** [Site](https://semeiamais.com.br)  
+
+<h2></h2>
+
+<!-- Tech.folio -->
+<img align="left" height="110px" width="110px" alt="Tech.folio Icon" src="https://i.pinimg.com/736x/17/2f/65/172f653be402317edb3f09c111ed3bda.jpg" style="margin-right:15px"/>
+
+**Tech.folio** – Plataforma para criação e gerenciamento de portfólios digitais para estudantes e recém-formados em tecnologia (Projeto Integrador 2 - UNIVESP).  
+**Tecnologias:** `Next.js`, `React.js`, `Tailwind CSS`, `Node.js`, `MongoDB`, `NextAuth`, `JWT`, `Jest`, `Express.js`  
+**Links:** [Site](https://portfohub.vercel.app/) • [Back-end](https://github.com/damacosta/portfohub-backend) • [Front-end](https://www.github.com/damacosta/portfohub)  
+
+<h2></h2>
+
+<!-- ProGirls site -->
+<img align="left" height="110px" width="110px" alt="ProGirls Icon" src="https://i.pinimg.com/736x/b1/46/d3/b146d35b3a4438880ad8f1f4d3fb76a6.jpg" style="margin-right:15px"/>
+
+**ProGirls Website** – Página oficial da comunidade Programmer Girls, com foco em visibilidade, eventos e materiais de estudo para mulheres na tecnologia.  
+**Tecnologias:** `React`, `JavaScript`, `APIs REST`, `Python`, `Flask`, `SQLite`  
+**Links:** [Front-end](https://github.com/Programmer-Girls/progirls-frontend)) • [Back-end](https://github.com/Programmer-Girls/progirls-backend)  
+
+<h2></h2>
+
+<!-- Patatech -->
+<img align="left" height="110px" width="110px" alt="Patatech Icon" src="https://i.pinimg.com/736x/05/6a/b4/056ab4419655db87cf34106ae3b4ac82.jpg" style="margin-right:15px"/>
+
+**Patatech** – Sistema de adoção de animais em parceria com a ONG Projeto Bonny, com painel administrativo e página pública responsiva.  
+**Tecnologias:** `Next.js`, `TypeScript`, `NestJS`, `MongoDB`, `Tailwind CSS`  
+**Links:** [Site](https://bonny-frontend.vercel.app/)  
+
+<h2></h2>
+
+<div align="center">
+
+<!-- Badge Google / Credly -->
+[<img src="https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" 
+  alt="Google IT Support Professional Certificate" 
+  width="110px"/>](https://www.credly.com/badges/575684a1-2b23-4d7f-b525-d46203086ef9 "Ver credencial")
+
+</div>

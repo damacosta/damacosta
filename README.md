@@ -130,15 +130,6 @@ _Previsão de término: nov/2025_
 
 <h2></h2>
 
-<!-- Tech.folio -->
-<img align="left" height="110px" width="110px" alt="Tech.folio Icon" src="https://i.pinimg.com/736x/17/2f/65/172f653be402317edb3f09c111ed3bda.jpg" style="margin-right:15px"/>
-
-**Tech.folio** – Plataforma para criação e gerenciamento de portfólios digitais para estudantes e recém-formados em tecnologia (Projeto Integrador 2 - UNIVESP).  
-**Tecnologias:** `Next.js`, `React.js`, `Tailwind CSS`, `Node.js`, `MongoDB`, `NextAuth`, `JWT`, `Jest`, `Express.js`  
-**Links:** [Site](https://portfohub.vercel.app/) • [Back-end](https://github.com/damacosta/portfohub-backend) • [Front-end](https://www.github.com/damacosta/portfohub)  
-
-<h2></h2>
-
 <!-- ProGirls site -->
 <img align="left" height="110px" width="110px" alt="ProGirls Icon" src="https://i.pinimg.com/736x/b1/46/d3/b146d35b3a4438880ad8f1f4d3fb76a6.jpg" style="margin-right:15px"/>
 
@@ -150,9 +141,18 @@ _Previsão de término: nov/2025_
 <!-- Patatech -->
 <img align="left" height="110px" width="110px" alt="Patatech Icon" src="https://i.pinimg.com/736x/05/6a/b4/056ab4419655db87cf34106ae3b4ac82.jpg" style="margin-right:15px"/>
 
-**Patatech** – Sistema de adoção de animais em parceria com a ONG Projeto Bonny, com painel administrativo e página pública responsiva.  
+**Patatech** – Sistema de adoção de animais em parceria com a ONG Projeto Bonny, com painel administrativo e página pública responsiva (Projeto Integrador 3 - UNIVESP).  
 **Tecnologias:** `Next.js`, `TypeScript`, `NestJS`, `MongoDB`, `Tailwind CSS`  
 **Links:** [Site](https://bonny-frontend.vercel.app/)  
+
+<h2></h2>
+
+<!-- Tech.folio -->
+<img align="left" height="110px" width="110px" alt="Tech.folio Icon" src="https://i.pinimg.com/736x/17/2f/65/172f653be402317edb3f09c111ed3bda.jpg" style="margin-right:15px"/>
+
+**Tech.folio** – Plataforma para criação e gerenciamento de portfólios digitais para estudantes e recém-formados em tecnologia (Projeto Integrador 2 - UNIVESP).  
+**Tecnologias:** `Next.js`, `React.js`, `Tailwind CSS`, `Node.js`, `MongoDB`, `NextAuth`, `JWT`, `Jest`, `Express.js`  
+**Links:** [Site](https://portfohub.vercel.app/) • [Back-end](https://github.com/damacosta/portfohub-backend) • [Front-end](https://www.github.com/damacosta/portfohub)  
 
 <h2></h2>
 

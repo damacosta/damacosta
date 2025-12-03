@@ -19,7 +19,7 @@
 <h2></h2>
 
 - Desenvolvedora **Full Stack** em transição da área educacional para tecnologia.  
-- Experiência com **projetos acadêmicos e voluntários** voltados para impacto social e agricultura familiar.  
+- Experiência com **projetos acadêmicos e voluntários** voltados para impacto social.  
 - Atuação com **React.js**, **Next.js**, **Java/Spring Boot**, **APIs REST** e bancos de dados relacionais.  
 - Foco em criar soluções digitais eficientes, com boa usabilidade e código organizado.  
 - Interesse em arquitetura web, boas práticas de back‑end e UI pensada para pessoas.  

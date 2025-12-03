@@ -143,8 +143,7 @@ _Previsão de término: nov/2025_
 <img align="left" height="110px" width="110px" alt="ProGirls Icon" src="https://i.pinimg.com/736x/b1/46/d3/b146d35b3a4438880ad8f1f4d3fb76a6.jpg" style="margin-right:15px"/>
 
 **ProGirls Website** – Página oficial da comunidade Programmer Girls, com foco em visibilidade, eventos e materiais de estudo para mulheres na tecnologia.  
-**Tecnologias:** `React`, `JavaScript`, `APIs REST`, `Python`, `Flask`, `SQLite`  
-**Links:** [Front-end](https://github.com/Programmer-Girls/progirls-frontend)) • [Back-end](https://github.com/Programmer-Girls/progirls-backend)  
+**Tecnologias:** `React`, `JavaScript`, `APIs REST`, `Python`, `Flask`, `SQLite` 
 
 <h2></h2>
 
@@ -163,5 +162,4 @@ _Previsão de término: nov/2025_
 [<img src="https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" 
   alt="Google IT Support Professional Certificate" 
   width="110px"/>](https://www.credly.com/badges/575684a1-2b23-4d7f-b525-d46203086ef9 "Ver credencial")
-
 </div>

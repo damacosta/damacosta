@@ -3,7 +3,7 @@
   <h3><em>Pessoas no centro, tecnologia como meio, aprendizado como caminho. Mais que códigos, eu acredito em conexões.</em></h3>
   
   ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-8B008B?style=flat)
-  ![Java & React](https://img.shields.io/badge/Java%20%26%20React-8B008B?style=flat)
+  ![Java, Python, Node.js, Javascript & React](https://img.shields.io/badge/Java%20%26%20React-8B008B?style=flat)
   [![Portfolio](https://img.shields.io/badge/Portfolio-daniellecosta.dev.br-8B008B?style=flat&logoColor=white)](https://daniellecosta.dev.br)</br>
 </div>
 

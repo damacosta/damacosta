@@ -19,7 +19,7 @@
 
 Desenvolvedora Full Stack com experiência em projetos acadêmicos e voluntários voltados para impacto social. Atualmente aprofundando em **Next.js**, **Node.js**, **TypeScript** e **C#**.
 
-Voluntária na **Connect Byte** como desenvolvedora do site 💜🐙
+Voluntária na **[Connect Byte](https://github.com/Connect-Byte-Hangout)** como desenvolvedora do site 💜🐙
 
 <br>
 

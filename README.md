@@ -17,7 +17,7 @@
 
 <br>
 
-Desenvolvedora Full Stack com experiência em projetos acadêmicos e voluntários voltados para impacto social. Atualmente aprofundando em **Next.js**, **Node.js**, **TypeScript** e **C#**.
+Desenvolvedora Full Stack com experiência em projetos acadêmicos e voluntários voltados para impacto social. Atualmente aprofundando em **Next.js**, **Node.js**, **TypeScript**,**C#**, **PHP** e **Laravel**.
 
 Desenvolvedora e Líder de Marketing na **[He4rt Developers](https://github.com/he4rt/)** 💜🐙
 

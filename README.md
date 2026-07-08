@@ -25,7 +25,7 @@ Desenvolvedora e Líder de Marketing na **[He4rt Developers](https://github.com/
 
 **Stack**
 
-`React.js` `Next.js` `TypeScript` `Java` `Spring Boot` `C#` `Node.js` `Python` `PostgreSQL` `MongoDB`
+`React.js` `Next.js` `TypeScript` `Java` `Spring Boot` `C#` `Node.js` `Python` `PostgreSQL` `MongoDB` `PHP` `Laravel`
 
 ---
 

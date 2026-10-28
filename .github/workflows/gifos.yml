@@ -1,0 +1,53 @@
+# Gera o GIF de terminal do perfil todo dia e publica na branch "gifos".
+name: GIF do terminal
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # todo dia às 6h (horário de Brasília)
+  workflow_dispatch:       # botão "Run workflow" na aba Actions
+  push:
+    paths:
+      - main.py
+      - gifos-colors/**
+      - .github/workflows/gifos.yml
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-gif:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar ffmpeg e gifos
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install github-readme-terminal==0.0.3
+
+      - name: Instalar a paleta de cores
+        run: |
+          mkdir -p ~/.config/gifos
+          cp gifos-colors/ansi_escape_colors.toml ~/.config/gifos/
+
+      - name: Gerar o GIF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIFOS_GENERAL_COLOR_SCHEME: dandan
+        run: python main.py
+
+      - name: Publicar na branch gifos
+        run: |
+          mkdir publicar
+          cp output.gif screenshot.png publicar/
+          cd publicar
+          git init -b gifos
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Atualiza o GIF do terminal"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" gifos

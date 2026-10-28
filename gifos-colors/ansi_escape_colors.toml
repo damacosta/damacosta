@@ -1,0 +1,26 @@
+# Paleta "dandan": as cores do design system da Danielle num terminal escuro.
+# O GitHub Actions copia este arquivo para ~/.config/gifos/ antes de gerar o GIF.
+[dandan]
+        [dandan.default_colors]
+        fg = "#FFF8F1"   # papel
+        bg = "#1C1530"   # tinta
+
+        [dandan.normal_colors]
+        black = "#2A2140"
+        red = "#FF5B2E"     # coral
+        green = "#2BB673"
+        yellow = "#FFC83D"  # amarelo
+        blue = "#B79CFF"    # roxo clareado para ler no fundo escuro
+        magenta = "#5B2EC2" # roxo
+        cyan = "#8FD3C7"
+        white = "#CFC8DA"   # suave-escuro
+
+        [dandan.bright_colors]
+        black = "#5E5670"   # suave
+        red = "#FF7A52"
+        green = "#5FD07A"
+        yellow = "#FFD86B"
+        blue = "#CDB8FF"
+        magenta = "#EDE6FB" # roxo-claro
+        cyan = "#A8E6DA"
+        white = "#FFFFFF"

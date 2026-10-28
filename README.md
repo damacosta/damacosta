@@ -1,45 +1,14 @@
+<h1 align="center">Danielle Costa (Dandan)</h1>
+
 <div align="center">
-
-  <h2>Danielle Costa (Dandan)</h2>
-  <p><em>Full Stack Developer · Engenharia da Computação · SP/Brasil</em></p>
-
-  <a href="https://www.linkedin.com/in/daniellecostadev/">
-    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  <!-- GIF gerado todo dia pelo GitHub Actions (main.py + .github/workflows/gifos.yml) -->
   <a href="https://daniellecosta.dev.br">
-    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=flat&logo=safari&logoColor=white"/>
+    <img alt="Terminal animado: DandanOS liga, faz login e mostra quem é a Dandan" src="https://raw.githubusercontent.com/damacosta/damacosta/gifos/output.gif">
   </a>
-  <a href="https://github.com/damacosta?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositórios-31-6A0DAD?style=flat&logo=github&logoColor=white"/>
-  </a>
-
 </div>
 
-<br>
-
-Desenvolvedora Full Stack com experiência em projetos acadêmicos e voluntários voltados para impacto social. Atualmente aprofundando em **Next.js**, **Node.js**, **TypeScript**,**C#**, **PHP** e **Laravel**.
-
-Desenvolvedora e Líder de Marketing na **[He4rt Developers](https://github.com/he4rt/)** 💜🐙
-
-<br>
-
-**Stack**
-
-`React.js` `Next.js` `Node.js` `PostgreSQL` `MongoDB` `PHP` `Laravel`
-
----
-
-**Projetos**
-
-| | |
-|---|---|
-| [**semeia+**](https://semeiamais.com.br) | Plataforma para planejamento de safra e gestão de agricultura familiar. `React.js` `Java` `Spring Boot` `PostgreSQL` |
-| [**patatech**](https://bonny-frontend.vercel.app/) | Sistema de adoção de animais com painel administrativo. *(PI 3 – UNIVESP)* `Next.js` `NestJS` `MongoDB` |
-| [**tech.folio**](https://portfohub.vercel.app/) | Plataforma de portfólios digitais para estudantes de tecnologia. *(PI 2 – UNIVESP)* `Next.js` `Node.js` `NextAuth` |
-| [**progirls website**](https://www.progirls.com.br/) | Página oficial da comunidade Programmer Girls. `React` `Python` `Flask` |
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/damacosta?tab=repositories">ver todos os repositórios →</a>
-</div>
+<p align="center">
+  <a href="https://daniellecosta.dev.br"><img src="https://img.shields.io/badge/portfólio-C2380E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/daniellecostadev/"><img src="https://img.shields.io/badge/linkedin-5B2EC2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:D.mariano.costa@gmail.com"><img src="https://img.shields.io/badge/e--mail-1C1530?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+</p>
